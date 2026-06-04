@@ -1,0 +1,199 @@
+maaltijdtype,naam,calorieen,eiwit,koolhydraten,vet,vezels,ingredienten,bereidingstijd_min,bereidingsmethode,bereiding
+Avondeten,Spaghetti Bolognese,650.0,35.0,75.0,22.0,8.0,"75g spaghetti, 150g rundergehakt, 200g tomatensaus, 50g ui, 50g wortel",30.0,Kookpan,1. Kook de spaghetti. 2. Bak gehakt rul. 3. Voeg groenten en saus toe. 4. Laat 15 min sudderen. 5. Meng met pasta.,
+Avondeten,Kip Teriyaki met Rijst,540.0,42.0,68.0,12.0,4.0,"150g kipfilet, 70g rijst, 150g roerbakgroente, 30ml teriyakisaus",25.0,Koekenpan,1. Kook rijst. 2. Bak kip gaar. 3. Voeg groenten toe. 4. Roer saus erdoor. 5. Serveer met rijst.,
+Avondeten,Zalm met Broccoli en Aardappelen,600.0,38.0,45.0,28.0,7.0,"150g zalm, 200g aardappelen, 200g broccoli",30.0,Oven,1. Verwarm oven op 200C. 2. Bak zalm 15 min. 3. Kook aardappelen. 4. Stoom broccoli. 5. Serveer samen.,
+Avondeten,Vegetarische Chili Sin Carne,520.0,22.0,70.0,18.0,14.0,"200g kidneybonen, 150g tomatenblokjes, 100g paprika, 50g ui, 70g rijst",35.0,Kookpan,1. Fruit ui. 2. Voeg paprika toe. 3. Voeg bonen en tomaat toe. 4. Laat 20 min sudderen. 5. Serveer met rijst.,
+Avondeten,Wraps met Kip en Groente,560.0,36.0,55.0,20.0,6.0,"2 wraps, 150g kip, 100g paprika, 50g mais, 30g yoghurt",20.0,Koekenpan,1. Bak kip. 2. Voeg groente toe. 3. Verwarm wraps. 4. Vul en rol op.,
+Avondeten,Bami Goreng,630.0,28.0,85.0,18.0,5.0,"100g mie, 150g kip, 150g roerbakgroente, 20ml sojasaus",25.0,Wok,1. Kook mie. 2. Bak kip. 3. Voeg groente toe. 4. Meng mie en saus erdoor.,
+Avondeten,Nasi met Ei en Kip,610.0,35.0,80.0,17.0,4.0,"75g rijst, 150g kip, 1 ei, 150g groente",25.0,Wok,1. Kook rijst. 2. Bak kip. 3. Voeg groente toe. 4. Roer ei erdoor.,
+Avondeten,Lasagne Bolognese,720.0,40.0,65.0,30.0,6.0,"3 lasagnebladen, 150g gehakt, 200g tomatensaus, 40g kaas",45.0,Oven,1. Bak gehakt. 2. Bouw lagen op. 3. Bestrooi met kaas. 4. Bak 30 min.,
+Avondeten,Couscous met Gegrilde Groenten,500.0,18.0,75.0,14.0,9.0,"75g couscous, 200g groente, 30g feta",20.0,Pan/Oven,1. Bereid couscous. 2. Grill groenten. 3. Meng met feta.,
+Avondeten,Shoarma met Pitabrood,700.0,38.0,60.0,32.0,5.0,"150g shoarma, 2 pitabroodjes, 100g sla, 40g knoflooksaus",20.0,Koekenpan,1. Bak shoarma. 2. Verwarm pita. 3. Vul met sla en saus.,
+Avondeten,Aardappelpuree met Worst en Sperziebonen,680.0,32.0,55.0,35.0,7.0,"200g aardappelen, 1 rookworst, 200g sperziebonen",30.0,Kookpan,1. Kook aardappelen. 2. Maak puree. 3. Kook bonen. 4. Verwarm worst.,
+Avondeten,Thaise Groene Curry,590.0,34.0,50.0,28.0,6.0,"150g kip, 200ml kokosmelk, 150g groente, 70g rijst",30.0,Wok,1. Kook rijst. 2. Bak kip. 3. Voeg curry en kokosmelk toe. 4. Laat sudderen.,
+Avondeten,Pasta Pesto met Kip,640.0,38.0,70.0,22.0,5.0,"75g pasta, 150g kip, 40g pesto, 50g tomaat",20.0,Kookpan,1. Kook pasta. 2. Bak kip. 3. Meng pesto en tomaat erdoor.,
+Avondeten,Hamburger met Zoete Aardappel Friet,750.0,45.0,65.0,38.0,8.0,"1 burger, 1 broodje, 250g zoete aardappel",30.0,Oven,1. Bak friet 25 min. 2. Bak burger. 3. Serveer op broodje.,
+Avondeten,Pokebowl Zalm,620.0,36.0,70.0,20.0,6.0,"75g rijst, 150g zalm, 100g komkommer, 50g avocado",20.0,Kom,1. Kook rijst. 2. Snijd zalm. 3. Bouw bowl op.,
+Avondeten,Ratatouille met Kip,540.0,35.0,30.0,28.0,9.0,"150g kip, 250g groente, 100g tomaat",30.0,Stoofpan,1. Bak kip. 2. Voeg groente toe. 3. Laat 20 min stoven.,
+Avondeten,Macaroni met Ham en Kaas,670.0,32.0,85.0,22.0,4.0,"75g macaroni, 100g ham, 40g kaas, 150g saus",25.0,Kookpan,1. Kook pasta. 2. Voeg ham en saus toe. 3. Bestrooi met kaas.,
+Avondeten,Vissticks met Spinazie en Aardappelen,600.0,28.0,70.0,22.0,6.0,"3 vissticks, 200g aardappelen, 200g spinazie",25.0,Oven/Kookpan,1. Bak vissticks. 2. Kook aardappelen. 3. Roerbak spinazie.,
+Avondeten,Gnocchi met Tomatensaus,580.0,18.0,85.0,16.0,7.0,"250g gnocchi, 200g tomatensaus, 30g parmezaan",20.0,Kookpan,1. Kook gnocchi. 2. Verwarm saus. 3. Meng en bestrooi.,
+Avondeten,Burrito met Rundergehakt,690.0,40.0,75.0,25.0,8.0,"1 wrap, 150g gehakt, 100g bonen, 50g mais",25.0,Koekenpan,1. Bak gehakt. 2. Voeg bonen toe. 3. Vul wrap en rol op.,
+Avondeten,Kip Schnitzel met Aardappelsalade,720.0,42.0,60.0,36.0,6.0,"1 schnitzel, 250g aardappelsalade",20.0,Koekenpan,1. Bak schnitzel. 2. Serveer met salade.,
+Avondeten,Risotto met Champignons,560.0,20.0,75.0,18.0,5.0,"75g risottorijst, 150g champignons, 30g parmezaan",35.0,Kookpan,1. Fruit champignons. 2. Voeg rijst toe. 3. Voeg bouillon geleidelijk toe.,
+Avondeten,Tortellini met Spinazie,630.0,25.0,80.0,20.0,6.0,"250g tortellini, 150g spinazie, 100ml room",20.0,Kookpan,1. Kook tortellini. 2. Verwarm spinazie en room. 3. Meng samen.,
+Avondeten,Kipsaté met Pindasaus,650.0,45.0,45.0,30.0,4.0,"150g kip, 30g pindasaus, 70g rijst",25.0,Grillpan,1. Grill kip. 2. Kook rijst. 3. Serveer met saus.,
+Avondeten,Stamppot Boerenkool,700.0,30.0,60.0,38.0,10.0,"200g aardappelen, 200g boerenkool, 1 rookworst",30.0,Kookpan,1. Kook aardappelen en boerenkool. 2. Stamp. 3. Serveer met worst.,
+Avondeten,Pasta Carbonara,720.0,30.0,80.0,30.0,3.0,"75g pasta, 100g spek, 1 ei, 30g kaas",20.0,Kookpan,1. Kook pasta. 2. Bak spek. 3. Meng ei en kaas erdoor.,
+Avondeten,Zalm Teriyaki met Noedels,610.0,38.0,70.0,18.0,5.0,"150g zalm, 100g noedels, 150g groente",25.0,Wok,1. Kook noedels. 2. Bak zalm. 3. Voeg groente en saus toe.,
+Avondeten,Groentelasagne,550.0,22.0,65.0,20.0,9.0,"3 lasagnebladen, 250g groente, 200g saus, 40g kaas",40.0,Oven,1. Bouw lagen. 2. Bestrooi met kaas. 3. Bak 30 min.,
+Avondeten,Kipburger met Salade,580.0,42.0,35.0,28.0,6.0,"1 kipburger, 1 broodje, 150g salade",20.0,Grillpan,1. Grill burger. 2. Serveer op broodje met salade.,
+Avondeten,Quinoa Salade met Feta,520.0,18.0,60.0,22.0,8.0,"75g quinoa, 150g groente, 40g feta",20.0,Kookpan,1. Kook quinoa. 2. Meng met groente en feta.,
+Avondeten,Pannenkoeken met Spek,680.0,25.0,75.0,30.0,2.0,"100g mix, 200ml melk, 1 ei, 100g spek",20.0,Koekenpan,1. Maak beslag. 2. Bak spek. 3. Bak pannenkoeken.,
+Avondeten,Kip Alfredo Pasta,730.0,45.0,80.0,28.0,4.0,"75g pasta, 150g kip, 100ml roomsaus",25.0,Kookpan,1. Kook pasta. 2. Bak kip. 3. Voeg saus toe.,
+Avondeten,Rijst met Garnalen,590.0,35.0,75.0,14.0,4.0,"75g rijst, 150g garnalen, 150g groente",20.0,Wok,1. Kook rijst. 2. Bak garnalen. 3. Voeg groente toe.,
+Avondeten,Vegetarische Burger met Friet,710.0,28.0,85.0,30.0,7.0,"1 vegaburger, 1 broodje, 200g friet",25.0,Oven,1. Bak friet. 2. Bak burger. 3. Serveer samen.,
+Avondeten,Kip Tandoori met Rijst,600.0,40.0,70.0,15.0,5.0,"150g kip, 70g rijst, 100g yoghurt",30.0,Oven,1. Marineer kip. 2. Bak 20 min. 3. Kook rijst.,
+Avondeten,Pasta Arrabiata,560.0,18.0,85.0,14.0,6.0,"75g pasta, 200g tomatensaus, chili",20.0,Kookpan,1. Kook pasta. 2. Verwarm saus. 3. Meng samen.,
+Avondeten,Gehaktballen met Jus en Aardappelen,750.0,42.0,55.0,40.0,5.0,"2 gehaktballen, 200g aardappelen, jus",30.0,Koekenpan,1. Bak ballen. 2. Kook aardappelen. 3. Serveer met jus.,
+Avondeten,Noedelsoep met Kip,520.0,35.0,60.0,12.0,4.0,"100g noedels, 150g kip, 500ml bouillon",25.0,Kookpan,1. Kook bouillon. 2. Voeg kip toe. 3. Voeg noedels toe.,
+Avondeten,Zalm Pasta met Spinazie,640.0,38.0,70.0,22.0,6.0,"75g pasta, 150g zalm, 150g spinazie",25.0,Kookpan,1. Kook pasta. 2. Bak zalm. 3. Voeg spinazie toe.,
+Avondeten,Taco’s met Kip,650.0,40.0,70.0,24.0,7.0,"2 taco shells, 150g kip, 100g sla, salsa",20.0,Koekenpan,1. Bak kip. 2. Vul taco’s.,
+Avondeten,Curry Linzen met Rijst,540.0,22.0,80.0,14.0,12.0,"150g linzen, 200g tomaat, 70g rijst",30.0,Kookpan,1. Kook rijst. 2. Laat linzen sudderen met tomaat.,
+Avondeten,Kipfilet met Couscous,560.0,45.0,55.0,14.0,6.0,"150g kip, 75g couscous, 150g groente",25.0,Grillpan,1. Grill kip. 2. Bereid couscous. 3. Voeg groente toe.,
+Avondeten,Pizza Margherita,800.0,30.0,90.0,32.0,4.0,"1 pizzabodem, 150g tomatensaus, 100g mozzarella",20.0,Oven,1. Beleg pizza. 2. Bak 15 min op 220C.,
+Avondeten,Geroerbakte Tofu met Rijst,520.0,25.0,65.0,18.0,8.0,"150g tofu, 75g rijst, 150g groente",25.0,Wok,1. Kook rijst. 2. Bak tofu. 3. Voeg groente toe.,
+Avondeten,Kip Caesar Salade,550.0,40.0,25.0,32.0,5.0,"150g kip, 100g sla, 30g croutons, dressing",20.0,Koekenpan,1. Bak kip. 2. Meng met sla en dressing.,
+Avondeten,Broccoli Ovenschotel met Gehakt,680.0,38.0,40.0,42.0,7.0,"200g broccoli, 150g gehakt, 40g kaas",35.0,Oven,1. Bak gehakt. 2. Meng met broccoli. 3. Bestrooi met kaas en bak.,
+Avondeten,Rijstschotel met Groente en Ei,560.0,22.0,75.0,18.0,6.0,"75g rijst, 1 ei, 200g groente",20.0,Wok,1. Kook rijst. 2. Roerbak groente. 3. Voeg ei toe.,
+Avondeten,Kip Gyros met Tzatziki,650.0,45.0,55.0,28.0,5.0,"150g kipgyros, 1 pita, 50g tzatziki",20.0,Koekenpan,1. Bak kip. 2. Vul pita met tzatziki.,
+Avondeten,Pasta met Tonijn,600.0,35.0,75.0,18.0,5.0,"75g pasta, 1 blik tonijn, 150g tomatensaus",20.0,Kookpan,1. Kook pasta. 2. Voeg tonijn en saus toe.,
+Avondeten,Vegetarische Couscous Bowl,510.0,20.0,70.0,16.0,9.0,"75g couscous, 200g groente, 30g hummus",20.0,Kom,1. Bereid couscous. 2. Voeg groente toe. 3. Top met hummus.,
+Ontbijt,Griekse Yoghurt met Granola,400.0,25.0,45.0,12.0,5.0,"250g Griekse yoghurt, 40g granola, 50g blauwe bessen",5.0,Kom,1. Schep yoghurt in kom. 2. Voeg granola toe. 3. Garneer met blauwe bessen.,
+Ontbijt,Volkoren Boterham met Avocado en Ei,380.0,16.0,35.0,20.0,7.0,"2 volkoren boterhammen, 1 ei, 1/2 avocado",10.0,Koekenpan,1. Kook of bak ei. 2. Prak avocado. 3. Beleg brood met avocado en ei.,
+Ontbijt,Milkshake Aardbei Banaan,350.0,20.0,55.0,6.0,4.0,"250ml halfvolle melk, 1 banaan, 100g aardbeien, 30g eiwitpoeder",5.0,Blender,1. Doe alle ingrediënten in blender. 2. Mix tot glad.,
+Ontbijt,Havermout met Appel en Kaneel,420.0,15.0,65.0,12.0,9.0,"60g havermout, 250ml melk, 1 appel, kaneel",10.0,Kookpan,1. Kook havermout. 2. Snijd appel. 3. Voeg appel en kaneel toe.,
+Ontbijt,Omelet met Groenten,300.0,22.0,8.0,20.0,3.0,"3 eieren, 100g spinazie, 50g paprika",10.0,Koekenpan,1. Klop eieren. 2. Bak groenten. 3. Voeg ei toe en bak gaar.,
+Ontbijt,Skyr met Noten en Honing,390.0,30.0,40.0,10.0,4.0,"250g skyr, 20g noten, 10g honing",5.0,Kom,1. Schep skyr in kom. 2. Voeg noten en honing toe.,
+Ontbijt,Pannenkoeken met Blauwe Bessen,520.0,18.0,70.0,18.0,5.0,"100g volkorenmeel, 1 ei, 200ml melk, 50g blauwe bessen",15.0,Koekenpan,1. Maak beslag. 2. Voeg bessen toe. 3. Bak pannenkoeken.,
+Ontbijt,Volkoren Toast met Pindakaas,370.0,14.0,40.0,18.0,6.0,"2 volkoren boterhammen, 20g pindakaas",5.0,Rooster,1. Rooster brood. 2. Besmeer met pindakaas.,
+Ontbijt,Kwark met Aardbeien,320.0,28.0,30.0,6.0,3.0,"250g magere kwark, 100g aardbeien",5.0,Kom,1. Schep kwark in kom. 2. Voeg aardbeien toe.,
+Ontbijt,Roerei met Zalm,410.0,28.0,4.0,32.0,1.0,"3 eieren, 50g gerookte zalm",10.0,Koekenpan,1. Klop eieren. 2. Bak zacht roerei. 3. Voeg zalm toe.,
+Ontbijt,Muesli met Yoghurt,390.0,20.0,55.0,10.0,6.0,"50g muesli, 200g yoghurt",5.0,Kom,1. Doe yoghurt in kom. 2. Voeg muesli toe.,
+Ontbijt,Banaan Havermout Smoothie,420.0,22.0,65.0,8.0,7.0,"60g havermout, 1 banaan, 250ml melk",5.0,Blender,1. Blend alle ingrediënten tot glad.,
+Ontbijt,Eiwitrijke Ontbijtbowl,450.0,35.0,45.0,12.0,5.0,"250g kwark, 30g eiwitpoeder, 40g granola",5.0,Kom,1. Meng kwark met eiwitpoeder. 2. Voeg granola toe.,
+Ontbijt,Volkoren Croissant met Ham en Kaas,480.0,20.0,40.0,28.0,2.0,"1 volkoren croissant, 30g ham, 30g kaas",5.0,Oven,1. Verwarm croissant. 2. Beleg met ham en kaas.,
+Ontbijt,Overnight Oats met Frambozen,410.0,18.0,60.0,12.0,9.0,"60g havermout, 200ml melk, 50g frambozen",5.0,Koelkast,1. Meng ingrediënten. 2. Laat nacht in koelkast staan.,
+Ontbijt,Omelet met Champignons,320.0,24.0,6.0,22.0,2.0,"3 eieren, 100g champignons",10.0,Koekenpan,1. Bak champignons. 2. Voeg ei toe en bak gaar.,
+Ontbijt,Yoghurt met Banaan en Noten,430.0,22.0,50.0,16.0,5.0,"250g yoghurt, 1 banaan, 20g noten",5.0,Kom,1. Meng yoghurt en banaan. 2. Voeg noten toe.,
+Ontbijt,Proteïne Pannenkoeken,500.0,35.0,55.0,14.0,4.0,"100g eiwitmix, 1 ei, 200ml melk",15.0,Koekenpan,1. Maak beslag. 2. Bak pannenkoeken.,
+Ontbijt,Havermout met Rozijnen,400.0,14.0,70.0,8.0,8.0,"60g havermout, 250ml melk, 20g rozijnen",10.0,Kookpan,1. Kook havermout. 2. Voeg rozijnen toe.,
+Ontbijt,Avocado Toast met Tomaat,350.0,10.0,35.0,18.0,8.0,"2 volkoren boterhammen, 1/2 avocado, 1 tomaat",5.0,Rooster,1. Rooster brood. 2. Beleg met avocado en tomaat.,
+Ontbijt,Kwark met Granola en Honing,420.0,30.0,45.0,12.0,4.0,"250g kwark, 40g granola, 10g honing",5.0,Kom,1. Meng alles in een kom.,
+Ontbijt,Scrambled Eggs met Spinazie,330.0,25.0,5.0,23.0,2.0,"3 eieren, 100g spinazie",10.0,Koekenpan,1. Bak spinazie. 2. Voeg ei toe en roer.,
+Ontbijt,Smoothie Bowl met Aardbei,380.0,20.0,55.0,10.0,6.0,"250g yoghurt, 100g aardbeien, 30g granola",5.0,Blender,1. Blend yoghurt en aardbei. 2. Top met granola.,
+Ontbijt,Volkoren Bagel met Roomkaas,450.0,15.0,60.0,16.0,4.0,"1 volkoren bagel, 30g roomkaas",5.0,Rooster,1. Snijd en rooster bagel. 2. Besmeer met roomkaas.,
+Ontbijt,Havermout met Peer,410.0,16.0,65.0,10.0,9.0,"60g havermout, 250ml melk, 1 peer",10.0,Kookpan,1. Kook havermout. 2. Voeg peer toe.,
+Ontbijt,Yoghurt met Kiwi en Chia,360.0,22.0,40.0,10.0,7.0,"250g yoghurt, 1 kiwi, 10g chiazaad",5.0,Kom,1. Meng yoghurt met kiwi en chia.,
+Ontbijt,Eiwit Omelet met Kipfilet,390.0,40.0,4.0,24.0,1.0,"3 eiwitten, 1 ei, 50g kipfilet",10.0,Koekenpan,1. Klop eieren. 2. Voeg kip toe. 3. Bak gaar.,
+Ontbijt,Ontbijt Burrito,520.0,28.0,55.0,20.0,6.0,"1 volkoren wrap, 2 eieren, 50g bonen, 30g kaas",15.0,Koekenpan,1. Bak ei. 2. Vul wrap met ingrediënten. 3. Rol op.,
+Ontbijt,Muesli met Notenmelk,370.0,14.0,55.0,12.0,6.0,"50g muesli, 250ml amandelmelk",5.0,Kom,1. Meng muesli met melk.,
+Ontbijt,Havermout met Chocolade en Banaan,480.0,18.0,70.0,16.0,8.0,"60g havermout, 250ml melk, 1 banaan, 10g pure chocolade",10.0,Kookpan,1. Kook havermout. 2. Voeg banaan en chocolade toe.,
+Ontbijt,Skyr met Appel en Kaneel,340.0,30.0,35.0,4.0,5.0,"250g skyr, 1 appel, kaneel",5.0,Kom,1. Meng skyr met appel en kaneel.,
+Ontbijt,Volkoren Toast met Hüttenkäse,360.0,20.0,35.0,12.0,5.0,"2 volkoren boterhammen, 100g hüttenkäse",5.0,Rooster,1. Rooster brood. 2. Beleg met hüttenkäse.,
+Ontbijt,Chocolade Proteïne Shake,390.0,35.0,30.0,10.0,3.0,"30g eiwitpoeder, 250ml melk, 1 banaan",5.0,Blender,1. Blend alle ingrediënten.,
+Ontbijt,Havermout met Notenmix,450.0,17.0,55.0,20.0,7.0,"60g havermout, 250ml melk, 20g notenmix",10.0,Kookpan,1. Kook havermout. 2. Voeg noten toe.,
+Ontbijt,Yoghurt met Granola en Mango,430.0,22.0,55.0,12.0,5.0,"250g yoghurt, 40g granola, 100g mango",5.0,Kom,1. Meng alles in een kom.,
+Ontbijt,Roerei met Bacon,500.0,30.0,2.0,40.0,0.0,"3 eieren, 2 plakjes bacon",10.0,Koekenpan,1. Bak bacon. 2. Voeg ei toe en roer.,
+Ontbijt,Havermout met Blauwe Bessen,410.0,16.0,65.0,10.0,8.0,"60g havermout, 250ml melk, 50g blauwe bessen",10.0,Kookpan,1. Kook havermout. 2. Voeg bessen toe.,
+Ontbijt,Ontbijt Wrap met Zalm,480.0,30.0,45.0,18.0,5.0,"1 volkoren wrap, 50g zalm, 1 ei, 30g roomkaas",10.0,Koekenpan,1. Bak ei. 2. Vul wrap met zalm en roomkaas.,
+Ontbijt,Kwark met Ananas,300.0,28.0,30.0,2.0,2.0,"250g magere kwark, 100g ananas",5.0,Kom,1. Meng kwark met ananas.,
+Ontbijt,Volkoren Crackers met Kaas,350.0,15.0,30.0,18.0,4.0,"3 volkoren crackers, 40g kaas",5.0,Geen,1. Beleg crackers met kaas.,
+Ontbijt,Havermout met Pindakaas en Appel,470.0,20.0,65.0,18.0,9.0,"60g havermout, 250ml melk, 1 appel, 15g pindakaas",10.0,Kookpan,1. Kook havermout. 2. Voeg appel en pindakaas toe.,
+Ontbijt,Smoothie met Spinazie en Banaan,340.0,18.0,50.0,6.0,5.0,"250ml melk, 1 banaan, 50g spinazie, 30g eiwitpoeder",5.0,Blender,1. Blend alle ingrediënten.,
+Ontbijt,Yoghurt met Muesli en Frambozen,390.0,20.0,55.0,10.0,6.0,"250g yoghurt, 50g muesli, 50g frambozen",5.0,Kom,1. Meng alles in een kom.,
+Ontbijt,Omelet met Feta en Tomaat,360.0,24.0,6.0,26.0,2.0,"3 eieren, 40g feta, 1 tomaat",10.0,Koekenpan,1. Bak tomaat. 2. Voeg ei en feta toe.,
+Ontbijt,Skyr met Granola en Banaan,420.0,32.0,55.0,8.0,5.0,"250g skyr, 40g granola, 1 banaan",5.0,Kom,1. Meng alles in een kom.,
+Ontbijt,Havermout met Kokos en Mango,430.0,15.0,60.0,15.0,7.0,"60g havermout, 250ml kokosmelk, 100g mango",10.0,Kookpan,1. Kook havermout. 2. Voeg mango toe.,
+Ontbijt,Ontbijt Sandwich met Ei en Ham,450.0,28.0,40.0,18.0,4.0,"2 volkoren boterhammen, 1 ei, 30g ham",10.0,Koekenpan,1. Bak ei. 2. Beleg brood met ei en ham.,
+Ontbijt,Havermout met Banaan en Pindakaas,450.0,18.0,60.0,18.0,8.0,"60g havermout, 250ml melk, 1 banaan, 15g pindakaas",10.0,Kookpan,1. Kook havermout in melk. 2. Snijd banaan. 3. Roer pindakaas erdoor. 4. Voeg banaan toe en serveer.,
+Ontbijt,Chia Pudding met Mango,360.0,12.0,45.0,14.0,10.0,"30g chiazaad, 250ml amandelmelk, 100g mango",5.0,Koelkast,1. Meng chia en melk. 2. Laat 4 uur opstijven. 3. Voeg mango toe.,
+Lunch,Volkoren Brood met Kipfilet en Avocado,450.0,32.0,40.0,18.0,8.0,"2 volkoren boterhammen, 100g kipfilet, 1/2 avocado, sla",10.0,Geen,1. Besmeer brood met avocado. 2. Voeg kipfilet en sla toe. 3. Leg boterhammen op elkaar en serveer.,
+Lunch,Wrap met Hummus en Gegrilde Groenten,420.0,14.0,55.0,16.0,9.0,"1 volkoren wrap, 50g hummus, 150g gegrilde groenten",15.0,Koekenpan,1. Grill groenten. 2. Besmeer wrap met hummus. 3. Voeg groenten toe en rol op.,
+Lunch,Salade met Tonijn en Ei,480.0,38.0,20.0,28.0,5.0,"1 blik tonijn, 2 eieren, 150g sla, 50g tomaat",15.0,Kom,1. Kook eieren. 2. Meng sla en tomaat. 3. Voeg tonijn en ei toe.,
+Lunch,Quinoa Lunch Bowl met Kip,520.0,40.0,55.0,14.0,7.0,"75g quinoa, 120g kipfilet, 150g groente",25.0,Kookpan,1. Kook quinoa. 2. Grill kip. 3. Meng met groenten.,
+Lunch,Pasta Salade met Pesto,500.0,18.0,65.0,18.0,6.0,"75g pasta, 40g pesto, 100g cherrytomaat, 30g feta",20.0,Kookpan,1. Kook pasta. 2. Meng met pesto en overige ingrediënten.,
+Lunch,Broodje Gerookte Zalm,460.0,30.0,45.0,18.0,4.0,"1 volkoren broodje, 80g zalm, 30g roomkaas, rucola",10.0,Geen,1. Snijd broodje open. 2. Besmeer met roomkaas. 3. Voeg zalm en rucola toe.,
+Lunch,Omelet met Spinazie en Feta,390.0,28.0,6.0,28.0,2.0,"3 eieren, 100g spinazie, 40g feta",15.0,Koekenpan,1. Bak spinazie. 2. Voeg ei toe. 3. Verkruimel feta erover.,
+Lunch,Linzensalade met Groenten,430.0,20.0,60.0,12.0,12.0,"150g linzen, 150g groente, 30g feta",20.0,Kom,1. Kook linzen. 2. Meng met groenten en feta.,
+Lunch,Volkoren Bagel met Kip en Pesto,480.0,35.0,50.0,16.0,5.0,"1 volkoren bagel, 100g kipfilet, 20g pesto",10.0,Rooster,1. Rooster bagel. 2. Besmeer met pesto. 3. Voeg kip toe.,
+Lunch,Couscous met Gegrilde Kip,510.0,38.0,55.0,14.0,6.0,"75g couscous, 120g kip, 150g groente",20.0,Kookpan,1. Bereid couscous. 2. Grill kip. 3. Meng met groenten.,
+Lunch,Salade Caprese met Kip,470.0,36.0,18.0,30.0,3.0,"150g kip, 125g mozzarella, 150g tomaat, basilicum",15.0,Koekenpan,1. Grill kip. 2. Snijd tomaat en mozzarella. 3. Combineer alles.,
+Lunch,Broodje Hüttenkäse en Avocado,420.0,22.0,40.0,18.0,7.0,"1 volkoren broodje, 100g hüttenkäse, 1/2 avocado",10.0,Geen,1. Snijd broodje. 2. Beleg met hüttenkäse en avocado.,
+Lunch,Rijstsalade met Garnalen,520.0,35.0,60.0,12.0,4.0,"75g rijst, 120g garnalen, 150g groente",20.0,Kookpan,1. Kook rijst. 2. Bak garnalen. 3. Meng met groenten.,
+Lunch,Kip Caesar Wrap,490.0,38.0,45.0,18.0,4.0,"1 wrap, 120g kip, 50g sla, 20g dressing",15.0,Koekenpan,1. Grill kip. 2. Vul wrap met ingrediënten.,
+Lunch,Vegetarische Buddha Bowl,450.0,18.0,65.0,14.0,10.0,"75g quinoa, 150g groente, 50g kikkererwten",25.0,Kookpan,1. Kook quinoa. 2. Voeg groenten en kikkererwten toe.,
+Lunch,Broodje Gezond Deluxe,480.0,28.0,50.0,18.0,6.0,"2 volkoren boterhammen, 30g kaas, 50g ham, sla, tomaat",10.0,Geen,"1. Beleg brood met kaas, ham en groente.",
+Lunch,Tonijnsalade met Volkoren Crackers,430.0,32.0,35.0,18.0,5.0,"1 blik tonijn, 3 volkoren crackers, 30g yoghurt",10.0,Kom,1. Meng tonijn met yoghurt. 2. Serveer met crackers.,
+Lunch,Pasta met Tonijn en Groente,520.0,34.0,65.0,14.0,6.0,"75g pasta, 1 blik tonijn, 150g groente",20.0,Kookpan,1. Kook pasta. 2. Voeg tonijn en groente toe.,
+Lunch,Kip Tandoori Salade,470.0,40.0,20.0,24.0,5.0,"150g kip tandoori, 150g sla, yoghurt",15.0,Koekenpan,1. Bak kip. 2. Meng met sla en yoghurt.,
+Lunch,Eiersalade op Volkoren Brood,450.0,24.0,40.0,22.0,5.0,"2 boterhammen, 2 eieren, 20g yoghurt",15.0,Kookpan,1. Kook eieren. 2. Meng met yoghurt. 3. Beleg brood.,
+Lunch,Wrap met Falafel en Hummus,500.0,18.0,60.0,20.0,9.0,"1 wrap, 4 falafel, 40g hummus, 100g groente",15.0,Koekenpan,1. Bak falafel. 2. Vul wrap met ingrediënten.,
+Lunch,Quiche met Groenten,520.0,22.0,45.0,28.0,4.0,"1 stuk quiche, 150g groente",5.0,Oven,1. Verwarm quiche. 2. Serveer met groente.,
+Lunch,Salade met Gerookte Kip,460.0,38.0,18.0,26.0,4.0,"150g gerookte kip, 150g sla, komkommer",10.0,Kom,1. Meng alle ingrediënten.,
+Lunch,Broodje Pulled Chicken,510.0,40.0,55.0,16.0,5.0,"1 volkoren broodje, 120g pulled chicken, sla",15.0,Koekenpan,1. Verwarm kip. 2. Beleg broodje.,
+Lunch,Noedelsalade met Kip,530.0,38.0,65.0,14.0,5.0,"100g noedels, 120g kip, 150g groente",20.0,Kookpan,1. Kook noedels. 2. Bak kip. 3. Meng met groente.,
+Lunch,Volkoren Toast met Avocado en Zalm,480.0,30.0,40.0,22.0,7.0,"2 volkoren boterhammen, 1/2 avocado, 80g zalm",10.0,Rooster,1. Rooster brood. 2. Beleg met avocado en zalm.,
+Lunch,Kikkererwtensalade,420.0,18.0,55.0,14.0,11.0,"150g kikkererwten, 150g groente",10.0,Kom,1. Meng kikkererwten met groente.,
+Lunch,Kip Pesto Panini,550.0,42.0,50.0,20.0,4.0,"1 panini, 120g kip, 20g pesto",10.0,Grillpan,1. Beleg panini. 2. Grill tot krokant.,
+Lunch,Rijst met Tofu en Groente,500.0,24.0,65.0,14.0,7.0,"75g rijst, 150g tofu, 150g groente",25.0,Wok,1. Kook rijst. 2. Bak tofu. 3. Voeg groente toe.,
+Lunch,Salade met Biefstukreepjes,540.0,42.0,20.0,30.0,4.0,"150g biefstuk, 150g sla, paprika",15.0,Koekenpan,1. Bak biefstuk. 2. Meng met sla en paprika.,
+Lunch,Broodje Omelet,430.0,26.0,40.0,20.0,4.0,"1 broodje, 2 eieren",10.0,Koekenpan,1. Bak omelet. 2. Beleg broodje.,
+Lunch,Couscous Salade met Tonijn,510.0,35.0,60.0,14.0,6.0,"75g couscous, 1 blik tonijn, 150g groente",20.0,Kookpan,1. Bereid couscous. 2. Meng met tonijn en groente.,
+Lunch,Vegetarische Wrap met Kaas,470.0,20.0,55.0,18.0,6.0,"1 wrap, 40g kaas, 150g groente",10.0,Koekenpan,1. Vul wrap met kaas en groente.,
+Lunch,Salade met Ei en Avocado,450.0,22.0,20.0,30.0,8.0,"2 eieren, 1 avocado, 150g sla",15.0,Kookpan,1. Kook eieren. 2. Meng met avocado en sla.,
+Lunch,Pita met Kip Gyros,520.0,40.0,50.0,20.0,5.0,"1 pita, 150g kipgyros, tzatziki",15.0,Koekenpan,1. Bak kip. 2. Vul pita met kip en saus.,
+Lunch,Pasta met Kip en Spinazie,540.0,42.0,65.0,14.0,6.0,"75g pasta, 120g kip, 150g spinazie",20.0,Kookpan,1. Kook pasta. 2. Bak kip. 3. Voeg spinazie toe.,
+Lunch,Broodje Tonijn Melt,560.0,38.0,45.0,24.0,4.0,"1 broodje, 1 blik tonijn, 30g kaas",15.0,Oven,1. Beleg broodje. 2. Smelt kaas in oven.,
+Lunch,Bulgur Salade met Kip,500.0,38.0,60.0,12.0,7.0,"75g bulgur, 120g kip, 150g groente",20.0,Kookpan,1. Kook bulgur. 2. Grill kip. 3. Meng samen.,
+Lunch,Vegetarische Pastasalade,480.0,18.0,70.0,14.0,6.0,"75g pasta, 150g groente, 30g feta",20.0,Kookpan,1. Kook pasta. 2. Meng met groente en feta.,
+Lunch,Wrap met Zalm en Roomkaas,490.0,32.0,45.0,20.0,4.0,"1 wrap, 80g zalm, 30g roomkaas",10.0,Geen,1. Besmeer wrap. 2. Voeg zalm toe en rol op.,
+Lunch,Salade met Geitenkaas en Noten,520.0,20.0,30.0,34.0,5.0,"150g sla, 50g geitenkaas, 20g noten",10.0,Kom,1. Meng sla met geitenkaas en noten.,
+Lunch,Kip Teriyaki Bowl,550.0,42.0,65.0,14.0,5.0,"75g rijst, 150g kip, teriyakisaus",25.0,Wok,1. Kook rijst. 2. Bak kip. 3. Voeg saus toe.,
+Lunch,Broodje Avocado Kip,480.0,35.0,45.0,18.0,6.0,"1 broodje, 100g kipfilet, 1/2 avocado",10.0,Geen,1. Beleg broodje met kip en avocado.,
+Lunch,Rijstsalade met Zalm,530.0,38.0,60.0,18.0,5.0,"75g rijst, 120g zalm, 150g groente",20.0,Kookpan,1. Kook rijst. 2. Bak zalm. 3. Meng met groente.,
+Lunch,Pasta met Garnalen,540.0,35.0,65.0,14.0,4.0,"75g pasta, 150g garnalen",20.0,Kookpan,1. Kook pasta. 2. Bak garnalen. 3. Meng samen.,
+Lunch,Volkoren Tosti Ham Kaas,500.0,28.0,45.0,22.0,4.0,"2 volkoren boterhammen, 40g kaas, 40g ham",10.0,Grillpan,1. Beleg brood. 2. Grill tot goudbruin.,
+Lunch,Salade met Kip en Mango,480.0,36.0,35.0,18.0,6.0,"150g kip, 100g mango, 150g sla",15.0,Koekenpan,1. Grill kip. 2. Meng met mango en sla.,
+Lunch,Kikkererwten Wrap met Groente,470.0,18.0,60.0,16.0,9.0,"1 wrap, 150g kikkererwten, 100g groente",15.0,Koekenpan,1. Verwarm kikkererwten. 2. Vul wrap met ingrediënten.,
+Lunch,Boterham met Pindakaas en Banaan,420.0,16.0,55.0,18.0,6.0,"2 volkoren boterhammen, 20g pindakaas, 1 banaan",5.0,Geen,1. Besmeer brood met pindakaas. 2. Voeg banaan toe.,
+Snack,Griekse Yoghurt met Honing en Noten,250.0,18.0,20.0,10.0,2.0,"200g Griekse yoghurt, 10g honing, 15g noten",5.0,Kom,1. Schep yoghurt in een kom. 2. Voeg honing en noten toe. 3. Meng licht en serveer.
+Snack,Appel met Pindakaas,220.0,6.0,28.0,10.0,5.0,"1 appel, 20g pindakaas",5.0,Geen,1. Snijd de appel in partjes. 2. Serveer met pindakaas.
+Snack,Eiwit Shake Banaan,300.0,30.0,35.0,5.0,3.0,"250ml melk, 1 banaan, 30g eiwitpoeder",5.0,Blender,1. Doe alle ingrediënten in de blender. 2. Mix tot een glad geheel.
+Snack,Rijstwafels met Avocado,240.0,6.0,30.0,10.0,4.0,"3 rijstwafels, 1 halve avocado",5.0,Geen,1. Prak de avocado. 2. Besmeer de rijstwafels en serveer.
+Snack,Komkommer met Hummus,180.0,5.0,15.0,10.0,4.0,"1 komkommer, 40g hummus",5.0,Geen,1. Snijd de komkommer in plakjes. 2. Dip in hummus.
+Snack,Handje Amandelen,200.0,7.0,6.0,18.0,3.0,"30g amandelen",2.0,Geen,1. Neem een handje amandelen. 2. Serveer direct.
+Snack,Skyr met Blauwe Bessen,210.0,20.0,25.0,2.0,3.0,"200g skyr, 50g blauwe bessen",5.0,Kom,1. Schep skyr in een kom. 2. Voeg bessen toe.
+Snack,Volkoren Crackers met Kaas,260.0,12.0,22.0,14.0,3.0,"3 volkoren crackers, 30g kaas",5.0,Geen,1. Beleg crackers met kaas. 2. Serveer direct.
+Snack,Protein Bar Homemade,280.0,20.0,30.0,10.0,4.0,"40g havermout, 20g pindakaas, 20g eiwitpoeder, 10g honing",10.0,Koelkast,1. Meng alle ingrediënten. 2. Druk in vorm. 3. Laat opstijven in koelkast.
+Snack,Banaan met Notenmix,230.0,5.0,35.0,9.0,4.0,"1 banaan, 15g notenmix",3.0,Geen,1. Pel de banaan. 2. Eet samen met noten.
+Snack,Groentesnack met Yoghurtdip,150.0,6.0,18.0,5.0,5.0,"100g wortel, 100g paprika, 50g yoghurt",5.0,Geen,1. Snijd groenten. 2. Meng yoghurt als dip.
+Snack,Gekookt Ei met Peper en Zout,160.0,13.0,1.0,11.0,0.0,"2 eieren",10.0,Kookpan,1. Kook de eieren. 2. Pel en breng op smaak.
+Snack,Chia Pudding Klein,220.0,8.0,20.0,12.0,6.0,"20g chiazaad, 200ml amandelmelk",5.0,Koelkast,1. Meng chia met melk. 2. Laat minimaal 2 uur staan.
+Snack,Magere Kwark met Mango,190.0,22.0,20.0,0.5,2.0,"200g magere kwark, 100g mango",5.0,Kom,1. Schep kwark in kom. 2. Voeg mango toe.
+Snack,Volkoren Toast met Hüttenkäse,250.0,14.0,30.0,6.0,4.0,"2 volkoren boterhammen, 80g hüttenkäse",5.0,Rooster,1. Rooster het brood. 2. Beleg met hüttenkäse.
+Snack,Popcorn Naturel,180.0,5.0,30.0,4.0,4.0,"30g popcorn maïs",5.0,Pan,1. Pof de maïs in een pan zonder boter.
+Snack,Energy Balls Dadels,260.0,6.0,35.0,10.0,5.0,"3 dadels, 20g noten, 10g cacao",10.0,Blender,1. Mix ingrediënten. 2. Rol tot balletjes.
+Snack,Peer met Kaneel,120.0,1.0,28.0,0.0,5.0,"1 peer, kaneel",3.0,Geen,1. Snijd peer. 2. Strooi kaneel erover.
+Snack,Wrap Rolletjes met Kipfilet,270.0,18.0,25.0,10.0,2.0,"1 volkoren wrap, 60g kipfilet, sla",5.0,Geen,1. Beleg wrap. 2. Rol op en snijd.
+Snack,Mini Omelet Muffins,240.0,20.0,4.0,16.0,1.0,"3 eieren, 50g groente",15.0,Oven,1. Meng ei met groente. 2. Bak in muffinvorm.
+Snack,Avocado met Cottage Cheese,230.0,12.0,10.0,16.0,5.0,"1 halve avocado, 100g cottage cheese",5.0,Geen,1. Snijd avocado. 2. Vul met cottage cheese.
+Snack,Rijstwafel met Pindakaas en Banaan,260.0,8.0,35.0,11.0,3.0,"2 rijstwafels, 15g pindakaas, halve banaan",5.0,Geen,1. Besmeer wafels. 2. Voeg banaan toe.
+Snack,Yoghurt met Granola Klein,230.0,12.0,30.0,6.0,3.0,"200g yoghurt, 25g granola",5.0,Kom,1. Meng yoghurt met granola.
+Snack,Tomaat Mozzarella Prikkers,210.0,12.0,5.0,16.0,1.0,"100g mozzarella, 100g cherrytomaat",5.0,Geen,1. Rijg tomaat en mozzarella aan prikker.
+Snack,Gerookte Zalm Rolletjes,220.0,18.0,2.0,16.0,0.0,"80g gerookte zalm, roomkaas",5.0,Geen,1. Besmeer zalm met roomkaas. 2. Rol op.
+Snack,Proteïne Smoothie Aardbei,260.0,25.0,30.0,3.0,3.0,"250ml melk, 100g aardbeien, 30g eiwitpoeder",5.0,Blender,1. Blend alle ingrediënten.
+Snack,Handje Cashewnoten,210.0,6.0,9.0,17.0,1.0,"30g cashewnoten",2.0,Geen,1. Neem een handje noten.
+Snack,Mini Tosti Ham Kaas,300.0,15.0,28.0,15.0,3.0,"2 sneetjes brood, 30g ham, 30g kaas",10.0,Grillpan,1. Beleg brood. 2. Grill tot goudbruin.
+Snack,Edamame Boontjes,190.0,17.0,15.0,8.0,6.0,"150g edamame",10.0,Kookpan,1. Kook edamame. 2. Bestrooi met zout.
+Snack,Banaan Pannenkoekjes,270.0,12.0,35.0,8.0,3.0,"1 banaan, 2 eieren",10.0,Koekenpan,1. Prak banaan. 2. Meng met ei. 3. Bak kleine pannenkoekjes.
+Snack,Skyr met Honing,180.0,20.0,15.0,0.5,0.0,"200g skyr, 10g honing",3.0,Kom,1. Meng skyr met honing.
+Snack,Komkommer Rolletjes met Kip,160.0,18.0,4.0,6.0,1.0,"1 komkommer, 60g kipfilet",5.0,Geen,1. Snijd komkommer in plakken. 2. Rol kip erin.
+Snack,Chocolade Kwark Bowl,250.0,22.0,20.0,6.0,3.0,"200g kwark, 10g cacao, 10g honing",5.0,Kom,1. Meng kwark met cacao en honing.
+Snack,Volkoren Muffin met Ei,280.0,14.0,30.0,10.0,4.0,"1 volkoren muffin, 1 ei",10.0,Koekenpan,1. Bak ei. 2. Serveer op muffin.
+Snack,Trail Mix,300.0,8.0,30.0,18.0,4.0,"20g noten, 20g rozijnen, 10g pure chocolade",2.0,Geen,1. Meng alle ingrediënten.
+Snack,Appel Kaneel Havermout Cup,240.0,8.0,40.0,5.0,5.0,"40g havermout, 1 appel, kaneel",10.0,Magnetron,1. Meng ingrediënten. 2. Verwarm 2 minuten.
+Snack,Magere Kwark met Noten,230.0,22.0,10.0,10.0,2.0,"200g kwark, 15g noten",5.0,Kom,1. Meng kwark met noten.
+Snack,Mini Wrap Pizza,310.0,15.0,35.0,12.0,3.0,"1 wrap, 50g tomatensaus, 40g kaas",10.0,Oven,1. Beleg wrap. 2. Bak kort in oven.
+Snack,Bosvruchten Smoothie,210.0,18.0,30.0,2.0,4.0,"250ml melk, 100g bosvruchten, 20g eiwitpoeder",5.0,Blender,1. Blend alle ingrediënten.
+Snack,Gekookte Kikkererwten Snack,200.0,10.0,30.0,4.0,6.0,"150g kikkererwten, paprikapoeder",10.0,Oven,1. Kruid kikkererwten. 2. Rooster in oven.
+Snack,Avocado Toast Klein,260.0,6.0,28.0,14.0,5.0,"1 sneetje volkoren brood, halve avocado",5.0,Rooster,1. Rooster brood. 2. Besmeer met avocado.
+Snack,Eiwitrijke Chocomelk,220.0,25.0,20.0,3.0,1.0,"250ml melk, 30g eiwitpoeder, cacao",5.0,Shaker,1. Shake alle ingrediënten goed.
+Snack,Wortel met Pindasaus,190.0,6.0,20.0,10.0,4.0,"150g wortel, 20g pindasaus",5.0,Geen,1. Snijd wortel. 2. Dip in pindasaus.
+Snack,Mini Caprese Salade,200.0,12.0,6.0,14.0,1.0,"100g mozzarella, 100g tomaat, basilicum",5.0,Kom,1. Snijd ingrediënten. 2. Meng samen.
+Snack,Proteïne IJs,250.0,25.0,30.0,4.0,3.0,"1 banaan, 30g eiwitpoeder",5.0,Blender,1. Vries banaan. 2. Blend met eiwitpoeder.
+Snack,Volkoren Beschuit met Kaas,210.0,10.0,25.0,8.0,3.0,"2 volkoren beschuiten, 30g kaas",5.0,Geen,1. Beleg beschuit met kaas.
+Snack,Skyr met Aardbeien,190.0,20.0,18.0,0.5,2.0,"200g skyr, 100g aardbeien",5.0,Kom,1. Meng skyr met aardbeien.
+Snack,Energiereep Haver en Honing,290.0,10.0,40.0,10.0,4.0,"50g havermout, 15g honing, 15g pindakaas",10.0,Koelkast,1. Meng ingrediënten. 2. Druk in vorm en laat opstijven.
+Snack,Mini Ei Salade Cup,230.0,14.0,4.0,18.0,1.0,"2 eieren, 10g yoghurt",10.0,Kookpan,1. Kook eieren. 2. Meng met yoghurt.
+Snack,Noten en Pure Chocolade,260.0,6.0,15.0,20.0,3.0,"20g noten, 20g pure chocolade",2.0,Geen,1. Combineer noten met chocolade en serveer.
