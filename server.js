@@ -171,5 +171,5 @@ Geef geen extra uitleg.
   }
 });
 app.listen(3000, () => {
-  console.log("Server draait op http://localhost:3000");
+  console.log("Server draait op https://sportchef-backend.onrender.com");
 });
